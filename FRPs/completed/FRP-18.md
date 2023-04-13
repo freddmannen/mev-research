@@ -3,7 +3,7 @@ id: 18
 title: Cryptographic primitives for complete privacy
 team: @JBStearn
 created: 2021-12-16
-status: active
+status: completed
 ---
 
 # Cryptographic primitives for complete privacy
